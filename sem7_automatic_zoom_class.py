@@ -110,7 +110,7 @@ if(url != None):
     print('')
 else:
     # print( 'There is '+Fore.RED+'NO'+Fore.WHITE+' class right now!' )
-    os.system('brave google.com')
+    os.system('brave https://avakanksh.github.io/automaticZoomClass/')
     rainbow_complete('<'+'~'*40+'>')
     print('\n\tThere is '+ colored('No','red')+ ' class right now!')
     rainbow_complete('<'+'~'*40+'>')
